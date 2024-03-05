@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>집갈래</h1>
-ddd
+<h2>집에가고싶어</h2>
 </body>
 </html>
